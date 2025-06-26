@@ -21,5 +21,5 @@ Technologies: Spark, Python, AWS EMR, optional: matplotlib, Plotly, or simple HT
 - Visualization & Reporting: Jakub Dufke
 
 ## Links to Reports from Individual Stages
-1. [AWS Configuration](link_to_aws_setup_report.md)  
+1. [AWS Configuration](AWS_configuration.md)  
 2. [Visualization and Results Presentation](link_to_results_presentation_report.md)
